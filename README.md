@@ -23,19 +23,35 @@
 
 <div align="center">
 
-### Embedded & Software
+### Firmware & Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts&theme=light" alt="Programming skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,cmake&theme=light" alt="Firmware and development tools" />
 
-### Tools
+### MCU & RTOS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cmake&theme=light" alt="Development tools" />
-
-<br />
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![ESP32--S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32F103](https://img.shields.io/badge/STM32F103-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![STC11L08XE](https://img.shields.io/badge/STC11L08XE-A0006D?style=flat-square)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4A8BDF?style=flat-square)
+![ESP--IDF](https://img.shields.io/badge/ESP--IDF-5.5-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Keil C51](https://img.shields.io/badge/Keil-C51-394049?style=flat-square)
+
+### Interfaces & Peripherals
+
+![UART](https://img.shields.io/badge/UART-4A8BDF?style=flat-square)
+![I2S](https://img.shields.io/badge/I%C2%B2S-4A8BDF?style=flat-square)
+![ADC](https://img.shields.io/badge/ADC-4A8BDF?style=flat-square)
+![PWM](https://img.shields.io/badge/PWM-4A8BDF?style=flat-square)
+![DHT11](https://img.shields.io/badge/DHT11-5D7084?style=flat-square)
+![MQ135](https://img.shields.io/badge/MQ135-5D7084?style=flat-square)
+![LD2450](https://img.shields.io/badge/HLK--LD2450-5D7084?style=flat-square)
+![HC--SR04](https://img.shields.io/badge/HC--SR04-5D7084?style=flat-square)
+
+### Circuits & EDA
+
+![LM358](https://img.shields.io/badge/LM358-A0006D?style=flat-square)
+![NE555](https://img.shields.io/badge/NE555-A0006D?style=flat-square)
+![74LS](https://img.shields.io/badge/74LS148%20%C2%B7%20192%20%C2%B7%20373%20%C2%B7%20279-A0006D?style=flat-square)
 ![Multisim](https://img.shields.io/badge/Multisim-A0006D?style=flat-square)
 ![JLCEDA](https://img.shields.io/badge/JLCEDA-1677FF?style=flat-square)
 
