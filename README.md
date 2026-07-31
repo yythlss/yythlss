@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.jpg" alt="Green hills and a sleeping black cat" />
+<img width="100%" src="https://raw.githubusercontent.com/yythlss/yythlss/refs/heads/main/assets/profile-banner.jpg" alt="Green hills and a sleeping black cat" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yythlss.github.io-4A8BDF?style=for-the-badge&logo=githubpages&logoColor=white)](https://yythlss.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/yythlss?style=for-the-badge&logo=github&label=Followers&color=A0006D)](https://github.com/yythlss?tab=followers)
