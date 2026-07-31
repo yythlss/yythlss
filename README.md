@@ -2,10 +2,6 @@
 
 <img width="100%" src="./assets/header.svg" alt="yythlss header" />
 
-### 电子信息工程 · 嵌入式系统 · 智能硬件
-
-武汉理工大学电子信息工程本科生，喜欢把课程设计和实验原型继续完善成可运行、可复现的开源作品。
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-yythlss.github.io-4A8BDF?style=for-the-badge&logo=githubpages&logoColor=white)](https://yythlss.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/yythlss?style=for-the-badge&logo=github&label=Followers&color=A0006D)](https://github.com/yythlss?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=yythlss&style=for-the-badge&color=4A8BDF)](https://github.com/yythlss)
