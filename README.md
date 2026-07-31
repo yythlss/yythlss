@@ -67,8 +67,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yythlss&show_icons=true&hide_border=true&count_private=true&title_color=A0006D&icon_color=4A8BDF&text_color=17324D&bg_color=EFFAFD" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yythlss&layout=compact&hide_border=true&title_color=A0006D&text_color=17324D&bg_color=EFFAFD" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api?username=yythlss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api/top-langs/?username=yythlss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yythlss&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-beta.vercel.app/?username=yythlss&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies" />
 
 </div>
 
