@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">yythlss profile header</title>
+  <desc id="desc">Embedded systems, smart hardware and electronics</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFFAFD"/>
+      <stop offset="0.52" stop-color="#4A8BDF"/>
+      <stop offset="1" stop-color="#A0006D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4A8BDF" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#EFFAFD" stop-opacity="0.72"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="26" fill="url(#background)"/>
+  <circle cx="1060" cy="30" r="180" fill="#EFFAFD" opacity="0.08"/>
+  <circle cx="1100" cy="220" r="110" fill="#4A8BDF" opacity="0.16"/>
+
+  <g fill="none" stroke="url(#line)" stroke-width="3">
+    <path d="M0 58h145l34 34h112"/>
+    <path d="M0 196h96l42-42h138"/>
+    <path d="M868 54h116l38 38h178"/>
+    <path d="M886 202h96l44-44h174"/>
+  </g>
+  <g fill="#EFFAFD">
+    <circle cx="179" cy="92" r="6"/>
+    <circle cx="138" cy="154" r="6"/>
+    <circle cx="1022" cy="92" r="6"/>
+    <circle cx="1026" cy="158" r="6"/>
+  </g>
+
+  <text x="600" y="118" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="750" letter-spacing="2">yythlss</text>
+  <text x="600" y="160" text-anchor="middle" fill="#EFFAFD" font-family="Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="3">EMBEDDED SYSTEMS · SMART HARDWARE · ELECTRONICS</text>
+</svg>
