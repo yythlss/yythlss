@@ -68,7 +68,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api?username=yythlss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api/top-langs/?username=yythlss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yythlss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
